@@ -26,12 +26,14 @@ Soy un **Analista en Sistemas** apasionado por la tecnología, con experiencia e
 
 ## 🚀 ¿Qué proyectos realicé?
 - **Renovación de Infraestructura de Red:** Proyecto educativo junto a alumnos para renovar la red de la institución, reemplazando Wi-Fi por cableado, e instalando switches y routers para mejorar la conectividad.
+- 
 - **[Proyecto 1](https://github.com/lucho28/Telcom_DataAnalyst):** Proyecto de Data Analisys - Telecomunicaciones.
-- **[Proyecto 2]((https://github.com/lucho28/sistemreco_api)):** Sistema de recomendacion - Industria cinematografica.
+- 
+- **[Proyecto 2](https://github.com/lucho28/sistemreco_api):** Sistema de recomendacion - Industria cinematografica.
 
 ---
 
 ## 📫 Información para contacto
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-- **Correo electrónico:** tu-email@ejemplo.com  
+- **LinkedIn:** [Tu perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/luis-gonzalez28/))  
+- **Correo electrónico:** luedugonzalez@gmail.com  
 - **Ubicación:** Provincia de Buenos Aires, Argentina  
