@@ -34,6 +34,6 @@ Soy un **Analista en Sistemas** apasionado por la tecnología, con experiencia e
 ---
 
 ## 📫 Información para contacto
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/luis-gonzalez28/)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/luis-gonzalez28/)  
 - **Correo electrónico:** luedugonzalez@gmail.com  
 - **Ubicación:** Provincia de Buenos Aires, Argentina  
