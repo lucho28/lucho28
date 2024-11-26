@@ -35,5 +35,6 @@ Soy un **Analista en Sistemas** apasionado por la tecnología, con experiencia e
 
 ## 📫 Información para contacto
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/luis-gonzalez28/)  
-- **Correo electrónico:** luedugonzalez@gmail.com  
+- **Correo electrónico:** luedugonzalez@gmail.com
+- **Movil:** +54 9 2317 514044
 - **Ubicación:** Provincia de Buenos Aires, Argentina  
