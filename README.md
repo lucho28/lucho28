@@ -31,7 +31,7 @@ Soy un **Analista en Sistemas** apasionado por la tecnología, con experiencia e
 - 
 - **[Proyecto 2](https://github.com/lucho28/sistemreco_api):** Sistema de recomendacion - Industria cinematografica.
 -
-- **[Proyecto 3](https://github.com/lucho28/googleyelp):** Analisis de sentimientos + sistema de recomendacion.
+- **[Proyecto 3](https://github.com/lucho28/proyect-google-yelp):** Analisis de sentimientos + sistema de recomendacion.
 ---
 
 ## 📫 Información para contacto
